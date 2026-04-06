@@ -1,0 +1,4 @@
+pytorch-lightning
+onnx
+onnxruntime
+scipy
